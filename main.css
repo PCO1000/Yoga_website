@@ -1,0 +1,22 @@
+.flex-g{
+    text-align: center;
+    position: top;
+    top: 50%;
+    left: 50%;
+    
+}
+.sipage{
+    display:flex;
+    align-self: center;
+    margin-top: 50;
+    justify-content: center;
+    padding-top: 5%;
+    
+}
+.sopage{
+    display:flex;
+    align-self: center;
+    margin-top: 50;
+    justify-content: center;
+    padding-top: 5%;
+}
